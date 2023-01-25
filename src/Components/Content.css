@@ -1,0 +1,32 @@
+.mar{
+    margin: 50px;
+    background-color: white;
+}
+
+.b1{
+ display: flex;
+ justify-content: left;
+ margin: 0 0 0 58px;
+ border: 2px solid rgb(255, 255, 255);
+ width: 80px;
+ border-radius: 10px;
+}
+
+.b2{
+    margin-top: 0;
+}
+
+.btn1{
+    margin: 0px 0 10px 0;
+}
+
+.btn2{
+    width: 100px;
+}
+
+.text{
+    margin: 0 0 0 350px !important;
+}
+.text2{
+    margin: 0 0 0 200px;
+}
